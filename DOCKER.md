@@ -177,15 +177,7 @@ docker run --name symfony --restart=always \
 -d pluie/alpine-symfony-php7
 ```
 
- [1]: https://github.com/pluie-org/docker-images
- [2]: https://github.com/pluie-org/docker-images/tree/master/pluie/alpine
- [3]: https://github.com/pluie-org/docker-images/tree/master/pluie/alpine-apache
- [4]: https://github.com/pluie-org/docker-images/tree/master/pluie/alpine-mysql
- [7]: https://github.com/pluie-org/docker-images/tree/master/pluie/alpine-apache-fpm
- [5]: https://github.com/pluie-org/docker-images/blob/master/DOCKER.md
- [6]: https://github.com/pluie-org/docker-images/tree/master/pluie/alpine-symfony
- [8]: https://github.com/pluie-org/docker-images/tree/master/pluie/alpine-apache-php7
- [9]: https://github.com/pluie-org/docker-images/tree/master/pluie/alpine-symfony-php7
- [10]: https://github.com/pluie-org/docker-images/tree/master/pluie/libecho
- [11]: https://github.com/pluie-org/docker-images/tree/master/pluie/libyaml
- [12]: https://github.com/pluie-org/docker-images/tree/master/pluie/ubuntu
+ [1]: ./docker-images
+ [2]: ./pluie/alpine
+ [4]: ./pluie/alpine-mariadb
+ [8]: ./pluie/alpine-apache-php7
