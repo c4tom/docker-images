@@ -40,7 +40,7 @@ Extend pluie/alpine with __apache 2.4.25__ and __php 7.0.16__
         SHENV_CTX=LOCAL         # LOCAL|INT|PROD change context bg color
        SHENV_NAME=Php7          # container name 
       SHENV_COLOR=67            # ANSI EXTENDED COLOR CODE
-               TZ=Europe/Paris  # TIMEZONE
+               TZ=America/Sao_Paulo  # TIMEZONE
 ```
 
 ## Image Volumes

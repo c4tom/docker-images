@@ -13,7 +13,7 @@ ENV      SHENV_NAME=Php7 \
             WWW_DIR=www \
           WWW_INDEX=index.php \
       FIX_OWNERSHIP=1 \
-                 TZ=Europe/Paris
+                 TZ=America/Sao_Paulo
 
 EXPOSE 80
 

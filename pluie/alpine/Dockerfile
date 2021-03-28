@@ -1,7 +1,7 @@
 # @app      pluie/alpine
 # @author   a-Sansara https://git.pluie.org/pluie/docker-images
 
-FROM alpine:3.5
+FROM alpine:3.13.3
 
 MAINTAINER a-Sansara https://github.com/a-sansara
 
@@ -11,7 +11,7 @@ ENV     TERM=xterm \
    SHENV_CTX=LOCAL \
   SHENV_NAME=Alpine \
  SHENV_COLOR=97 \
-          TZ=Europe/Paris
+          TZ=America/Sao_Paulo
 
 VOLUME /app
 

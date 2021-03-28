@@ -96,7 +96,7 @@ ENV      SHENV_NAME=Apache \
             WWW_DIR=www \
           WWW_INDEX=index.php \
       FIX_OWNERSHIP=1 \
-                 TZ=Europe/Paris
+                 TZ=America/Sao_Paulo
 
 EXPOSE 80
 
