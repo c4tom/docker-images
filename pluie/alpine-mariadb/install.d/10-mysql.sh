@@ -1,5 +1,5 @@
 #!/bin/bash
-# @app      pluie/alpine-mysql
-# @author   a-Sansara https://git.pluie.org/pluie/docker-images
+# @app      pluie/alpine-mariadb
+# @author   CAHATO https://github.com/c4tom/docker-images/
 
-apk add mysql mysql-client pwgen \
+apk add mariadb mariadb-client mysql-bench pwgen \
